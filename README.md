@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+Hi,humans!
+I'm law student that wants to learn about jurimetrics.
